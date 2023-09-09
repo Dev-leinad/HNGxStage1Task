@@ -65,7 +65,9 @@ a{
    text-transform:uppercase;
    font-family:Arial,sans-serif;
 }
-
+.daytime{
+   margin-top:3rem;
+}
 button{
    padding:10px;
    height:40px;

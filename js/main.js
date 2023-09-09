@@ -10,4 +10,4 @@ displayDay.innerHTML = days[new Date().getDay()];
 // Gets the current  UTC
 
 let displayUtc = document.getElementById('utc');
-displayUtc.innerHTML = new Date (24*60*60*1000);
+displayUtc.innerHTML = new Date ().getTime();
